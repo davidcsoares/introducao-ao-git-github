@@ -1,2 +1,2 @@
-# introducao-ao-git-github
-Repositório de conhecimentos adquiridos no curso da DIO sobre Git/GitHub
+# Introdução ao Git/GitHub 
+Repositório de conhecimentos adquiridos no módulo sobre Git/GitHub que afz parte do bootcamp Database Experience da DIO
