@@ -1,0 +1,5 @@
+Git é um software para controle de versões desde a primeira a mais recente versão.
+A maior vantagem disso é feita de forma colaborativa para melhorar o código com outras pessoas ao redor do mundo. 
+
+Link do site do git: https://git-scm.com/
+
